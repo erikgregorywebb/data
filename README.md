@@ -1,6 +1,6 @@
 # Datasets
 
-This repo contains a collection of datasets I've created or collected, via web scraping or other collection method.
+This repo contains datasets I've created or collected, via web scraping or other collection method.
 
 ### Categories
 - [:house: Real Estate](#Real-Estate)
