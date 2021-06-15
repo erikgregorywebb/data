@@ -12,10 +12,14 @@ This repo contains datasets I've created or collected, via web scraping or other
 
 ### Marvel Cinematic Universe Films
 
-### Billboard Hot 100 Artists
-Contains a list of [Billboard Hot 100 Artists](https://www.billboard.com/charts/year-end/2019/hot-100-artists) from 2005 to 2019, scraped from [billboard.com](billboard.com/) on July 19, 2020. 
+> - [Download Data]()
+> - [View Script]()
+> - [View Analysis]()
 
-> - Download Data 
+### Billboard Hot 100 Artists
+Contains a list of [Billboard Hot 100 Artists](https://www.billboard.com/charts/year-end/2019/hot-100-artists) from 2005 to 2019, scraped from [billboard.com](billboard.com/) on July 19, 2020. There are three columns: year, rank, and artist. 
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/billboard-hot-100-artists-2005to2019.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/billboard-scraper.R)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/the-rise-of-rap-a-genre-popularity-analysis/)
 
