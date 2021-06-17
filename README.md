@@ -5,6 +5,7 @@ This repo contains datasets I've created or collected, via web scraping or other
 ### Categories
 - [:house: Real Estate](#Real-Estate)
 - [:movie_camera: Entertainment](#Entertainment)
+- [:car: Auto](#Auto)
 
 ## :house: Real Estate
 
@@ -26,6 +27,17 @@ Contains a list of [Billboard Hot 100 Artists](https://www.billboard.com/charts/
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/billboard-scraper.R)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/the-rise-of-rap-a-genre-popularity-analysis/)
 
+<br>
+
+## :car: Auto
+
+### CarGurus Used Minivan Prices
+
+As one of the most visited car shopping sites in the United States, CarGurus tracks prices for millions of used car listings every year. Looking to get acquainted with prices in the used minivan market, I scraped 20 years’ worth of monthly average price data from CarGurus for five minivan models: Kia Sedona, Toyota Sienna, Chrysler Pacifica, Honda Odyssey, and Dodge Grand Caravan. 
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/cargurus-minivans.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/cargurus-scraper.R)
+> - [View Analysis](https://unboxed-analytics.com/data-technology/minivan-wars-visualizing-prices-in-the-used-car-market/)
 
 
 
