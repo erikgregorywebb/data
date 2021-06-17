@@ -1,6 +1,8 @@
 # Datasets
 
-This repo contains datasets I've created or collected, via web scraping or other collection method.
+This repo contains datasets I've created or collected, mostly via web scraping.
+
+*Note: This is a work in progress. I'm still centralizing ~250 [gists](https://gist.github.com/erikgregorywebb).*
 
 ### Categories
 - [:house: Real Estate](#Real-Estate)
@@ -8,6 +10,8 @@ This repo contains datasets I've created or collected, via web scraping or other
 - [:car: Auto](#Auto)
 
 ## :house: Real Estate
+
+Coming soon.
 
 ## :movie_camera: Entertainment
 
