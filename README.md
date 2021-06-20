@@ -33,6 +33,15 @@ Contains a list of [Billboard Hot 100 Artists](https://www.billboard.com/charts/
 
 <br>
 
+### Pitchfork Rap Reviews
+
+List of URLs to reviews for rap albums written by Pitchfork. 2,256 reviews when script was run on June 23, 2020.
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/pitchfork-rap-reviews-2020-06-23.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/pitchfork-reviews.R)
+
+<br>
+
 ## :car: Auto
 
 ### CarGurus Used Minivan Prices
