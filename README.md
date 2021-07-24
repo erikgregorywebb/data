@@ -42,6 +42,17 @@ List of URLs to reviews for rap albums written by Pitchfork. 2,256 reviews when 
 
 <br>
 
+<br>
+
+### Spotify Charts
+
+[Spotify Charts](https://spotifycharts.com) exposes the current top 200 tracks, as well as date drop-down to view historical chart data. Since Spotify Charts has built-in CSV download functionality, a simple R script helped compile and aggregate the daily chart data, which stretches back to early 2017.
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/spotify-charts-daily-2020-10-07.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/spotify-charts-scraper.R)
+
+<br>
+
 ## :car: Auto
 
 ### CarGurus Used Minivan Prices
@@ -51,6 +62,3 @@ As one of the most visited car shopping sites in the United States, CarGurus tra
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/cargurus-minivans.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/cargurus-scraper.R)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/minivan-wars-visualizing-prices-in-the-used-car-market/)
-
-
-
