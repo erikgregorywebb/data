@@ -5,13 +5,9 @@ This repo contains datasets I've created or collected, mostly via web scraping.
 *Note: This is a work in progress. I'm still centralizing ~250 [gists](https://gist.github.com/erikgregorywebb).*
 
 ### Categories
-- [:house: Real Estate](#Real-Estate)
 - [:movie_camera: Entertainment](#Entertainment)
 - [:car: Auto](#Auto)
-
-## :house: Real Estate
-
-Coming soon.
+- [:house: Real Estate](#Real-Estate)
 
 ## :movie_camera: Entertainment
 
@@ -62,3 +58,13 @@ As one of the most visited car shopping sites in the United States, CarGurus tra
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/cargurus-minivans.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/cargurus-scraper.R)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/minivan-wars-visualizing-prices-in-the-used-car-market/)
+
+<br>
+
+## :house: Real Estate
+
+### Scarsdale Property Assessments
+In 2018 my wife and I moved to New York for the start of a new job. Initially overwhelmed by the scope and pace of the NYC housing market, we were given the very generous and unexpected opportunity by a family friend to live in a house north of the city in Westchester County. Built in the early 1930s, the historic home is situated in central Scarsdale, an affluent suburban town known for high-achieving schools and extravagant real estate. Wishing to analyze the houses of Scarsdale in a more systematic way, I contacted the Scarsdale Village administration and was sent an Excel file with the complete set of residential properties, rich with detail and with few missing values.
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/scarsdale-property-assessment-2019.csv)
+> - [View Analysis](https://unboxed-analytics.com/data-technology/mapping-scarsdale-real-estate-data-with-python/)
