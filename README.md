@@ -18,16 +18,12 @@ While re-watching parts of the MCU series during paternity leave, I compiled a d
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/mcu-movies.csv)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/exploring-the-marvel-cinematic-universe-in-tableau/)
 
-<br>
-
 ### Billboard Hot 100 Artists
 Contains a list of [Billboard Hot 100 Artists](https://www.billboard.com/charts/year-end/2019/hot-100-artists) from 2005 to 2019, scraped from [billboard.com](billboard.com/) on July 19, 2020. There are three columns: year, rank, and artist. 
 
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/billboard-hot-100-artists-2005to2019.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/billboard-scraper.R)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/the-rise-of-rap-a-genre-popularity-analysis/)
-
-<br>
 
 ### Pitchfork Rap Reviews
 
@@ -36,10 +32,6 @@ List of URLs to reviews for rap albums written by Pitchfork. 2,256 reviews when 
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/pitchfork-rap-reviews-2020-06-23.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/pitchfork-reviews.R)
 
-<br>
-
-<br>
-
 ### Spotify Charts
 
 [Spotify Charts](https://spotifycharts.com) exposes the current top 200 tracks, as well as date drop-down to view historical chart data. Since Spotify Charts has built-in CSV download functionality, a simple R script helped compile and aggregate the daily chart data, which stretches back to early 2017.
@@ -47,7 +39,12 @@ List of URLs to reviews for rap albums written by Pitchfork. 2,256 reviews when 
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/spotify-charts-daily-2020-10-07.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/spotify-charts-scraper.R)
 
-<br>
+### Kids-In-Mind Movie Ratings
+
+As stated on thier [website](https://kids-in-mind.com/about.htm), the purpose of kids-in-mind.com is "to provide parents and other adults with objective and complete information about a film’s content so that they can decide, based on their own value system, whether they should watch a movie with or without their kids, or at all." This dataset contains data for 5,525 movies, including `title`, `year`, `mpaa_rating`, and ratings assigned by the editors. It was scraped on March 5, 2022.
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/kids-in-mind-movies.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/kids-in-mind-movies-scraper.R)
 
 ## :car: Auto
 
@@ -58,8 +55,6 @@ As one of the most visited car shopping sites in the United States, CarGurus tra
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/cargurus-minivans.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/cargurus-scraper.R)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/minivan-wars-visualizing-prices-in-the-used-car-market/)
-
-<br>
 
 ## :house: Real Estate
 
