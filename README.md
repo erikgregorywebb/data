@@ -67,5 +67,7 @@ In 2018 my wife and I moved to New York for the start of a new job. Initially ov
 
 ### General Conference Speeches
 
-> - [Download Data (Paragraphs)](wwww.example.com)
-> - [Download Data (Words)](wwww.example.com)
+My friend @bryanwhiting published an [R package](https://github.com/bryanwhiting/generalconference) that compiles ~50 years worth of speeches from sessions of [General Conference](https://www.churchofjesuschrist.org/study/general-conference?lang=eng) from the Church of Jesus Christ of Latter-Day Saints.
+
+> - [Download Data](https://drive.google.com/file/d/1BSisfqMb1HWyDxm6eYosWiv7s_KT2BYi/view?usp=sharing)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/general-conference.R)
