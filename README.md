@@ -2,12 +2,11 @@
 
 This repo contains datasets I've created or collected, mostly via web scraping.
 
-*Note: This is a work in progress. I'm still centralizing ~250 [gists](https://gist.github.com/erikgregorywebb).*
-
 ### Categories
 - [:movie_camera: Entertainment](#Entertainment)
 - [:car: Auto](#Auto)
 - [:house: Real Estate](#Real-Estate)
+- [:church: Religion](#Religion)
 
 ## :movie_camera: Entertainment
 
@@ -63,3 +62,10 @@ In 2018 my wife and I moved to New York for the start of a new job. Initially ov
 
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/scarsdale-property-assessment-2019.csv)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/mapping-scarsdale-real-estate-data-with-python/)
+
+## :church: Religion
+
+### General Conference Speeches
+
+> - [Download Data (Paragraphs)](wwww.example.com)
+> - [Download Data (Words)](wwww.example.com)
