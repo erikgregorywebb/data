@@ -6,6 +6,7 @@ This repo contains datasets I've created or collected, mostly via web scraping.
 - [:movie_camera: Entertainment](#Entertainment)
 - [:car: Auto](#Auto)
 - [:house: Real Estate](#Real-Estate)
+- [💰 Finance](#Finance)
 - [:church: Religion](#Religion)
 
 ## :movie_camera: Entertainment
@@ -54,6 +55,14 @@ As one of the most visited car shopping sites in the United States, CarGurus tra
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/cargurus-minivans.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/cargurus-scraper.R)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/minivan-wars-visualizing-prices-in-the-used-car-market/)
+
+## 💰 Finance
+
+### Freddie Mac Mortgage Rates
+
+> - [Download Data](https://github.com/erikgregorywebb/github-actions-demo/tree/main/data)
+> - [View Script](https://github.com/erikgregorywebb/github-actions-demo/blob/main/freddiemac.py)
+> - [View Analysis](https://unboxed-analytics.com/data-technology/github-actions-for-data-analysts/)
 
 ## :house: Real Estate
 
