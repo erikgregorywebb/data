@@ -64,6 +64,11 @@ As one of the most visited car shopping sites in the United States, CarGurus tra
 > - [View Script](https://github.com/erikgregorywebb/github-actions-demo/blob/main/freddiemac.py)
 > - [View Analysis](https://unboxed-analytics.com/data-technology/github-actions-for-data-analysts/)
 
+### CB Insights Unicorn Companies
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/cb-unicorns-2022-06-06.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/cb-unicorns.R)
+
 ## :house: Real Estate
 
 ### Scarsdale Property Assessments
