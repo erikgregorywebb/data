@@ -48,7 +48,7 @@ As stated on thier [website](https://kids-in-mind.com/about.htm), the purpose of
 
 ### Personal Last.fm "Scrobble" History
 
-[Last.fm](https://last.fm/) is one of the best ways to track the music you listen to. Last.fm connects to music [streaming services](https://www.last.fm/about/trackmymusic) and tracks listening behavior via ["scrobbling"](https://www.businessinsider.com/guides/tech/what-is-last-fm-scrobbling). Using Ben Foxall's convenient `lastfm-to-csv` [service](https://benjaminbenben.com/lastfm-to-csv/), I exported the list of 52,036 tracks I've listened to on Spotify between April 2017 and January 2023.
+[Last.fm](https://last.fm/) is one of the best ways to track the music you listen to. Last.fm connects to music [streaming services](https://www.last.fm/about/trackmymusic) and tracks listening behavior via ["scrobbling"](https://www.businessinsider.com/guides/tech/what-is-last-fm-scrobbling). Using Ben Foxall's convenient `lastfm-to-csv` [service](https://benjaminbenben.com/lastfm-to-csv/), I exported the list of 52,036 tracks I've listened to on Spotify between April 2017 and January 2023. Looking to visual personal genre trends over time, this was enriched (adding a `artist_primary_genre` field) using the [Spotify API](https://developer.spotify.com/console/get-search-item/) and `spotifyr` [package](https://www.rcharlie.com/spotifyr/).
 
 > - [Download Data (Original)](https://github.com/erikgregorywebb/data/blob/main/data/last-fm-history-2023-01-22.csv)
 
