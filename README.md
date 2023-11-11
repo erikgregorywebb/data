@@ -75,6 +75,10 @@ As one of the most visited car shopping sites in the United States, CarGurus tra
 > - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/cb-unicorns-2022-06-06.csv)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/cb-unicorns.R)
 
+### Apple App Store Finance App Rankings
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/app-store-finance-rankings-2023-11-10.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/apple-app-store-rankings.r)
+
 ## :house: Real Estate
 
 ### Scarsdale Property Assessments
