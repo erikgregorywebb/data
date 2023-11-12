@@ -77,6 +77,8 @@ for (i in 1:length(up_next)) {
 }
 
 # combine files to create one location dataset  
+setwd("~/Downloads/usps-locations")
+scraped_files = list.files()
 datalist = list()
 for (i in 1:length(scraped_files)) {
   print(scraped_files[i])
