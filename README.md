@@ -8,6 +8,7 @@ This repo contains datasets I've created or collected, mostly via web scraping.
 - [:house: Real Estate](#Real-Estate)
 - [💰 Finance](#Finance)
 - [:church: Religion](#Religion)
+- [🗒️ Miscellaneous](#Miscellaneous)
 
 ## :movie_camera: Entertainment
 
@@ -95,3 +96,12 @@ My friend @bryanwhiting published an [R package](https://github.com/bryanwhiting
 
 > - [Download Data](https://drive.google.com/file/d/1BSisfqMb1HWyDxm6eYosWiv7s_KT2BYi/view?usp=sharing)
 > - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/general-conference.R)
+
+## 🗒️ Miscellaneous
+
+### NY Post Office Locations
+
+As of November 11, 2023 when scraped.
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/ny-post-office-locations.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/usps-locations-scrape.r)
