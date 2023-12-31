@@ -53,6 +53,14 @@ As stated on thier [website](https://kids-in-mind.com/about.htm), the purpose of
 
 > - [Download Data (Original)](https://github.com/erikgregorywebb/data/blob/main/data/last-fm-history-2023-01-22.csv)
 
+### Spotify's Rap Caviery History
+
+With over 15 million listeners, Spotify’s [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd) has been called “the most influential playlist in music.” RapCaiver is curated by Spotify’s editorial team and updated daily to represent the latest and greatest hip-hop and rap tracks. For the last year, I’ve saved a daily snapshot of the playlist using the Spotify API to empirically determine the biggest rappers in hip hop today.
+
+> - [Download Data](https://github.com/erikgregorywebb/data/blob/main/data/spotify-rap-cavier-2023-12-27.csv)
+> - [View Script](https://github.com/erikgregorywebb/data/blob/main/scripts/rap-cavier-trends.r)
+> - [View Analysis](https://unboxed-analytics.com/data-technology/hip-hop-heavyweights/)
+
 ## :car: Auto
 
 ### CarGurus Used Minivan Prices
